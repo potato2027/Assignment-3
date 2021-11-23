@@ -1,0 +1,15 @@
+laptop
+shirt
+science
+maths
+lamp
+java
+what
+why
+how
+when
+where
+go
+python
+winter
+summer
